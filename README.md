@@ -7,4 +7,7 @@ In the "sorting" folder, you'll find four separate files with four different sor
 
 Go ahead and add a one line intro about you and add your favorite emoji which you can get here: https://getemoji.com/
 
+- Hello! I'm Jiaqi, and my favorite emoji is 🍉
+
 - Hi! My name is Anisha - you can find me anywhere with @ani6gup! My favorite emoji has to be 👌 since it works in any situation!
+
