@@ -5,6 +5,7 @@ def partition(numbers, low, high):
 	for j in range(low, high):
 
 		if numbers[j] <= pivot:
+			i = i -1
 			# TODO: increment index of the smaller element
             i = i+1
 
