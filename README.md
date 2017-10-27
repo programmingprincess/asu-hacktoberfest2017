@@ -12,3 +12,5 @@ Go ahead and add a one line intro about you and add your favorite emoji which yo
 - Hi! My name is Anisha - you can find me anywhere with @ani6gup! My favorite emoji has to be 👌 since it works in any situation!
 
 -Hi..my name is Nadia, and my favorite emoji is 👩‍💻 .
+
+- Hi, my name is Brianna and my favorite emoji is 👩‍💻!
