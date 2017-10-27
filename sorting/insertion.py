@@ -7,7 +7,10 @@ def insertion(numbers):
 		while j >= 0 and key < numbers[j]:
 			# TODO: if element is greater than the key,
 			# move ahead of their current position
+            if numbers[j] > key:
+                numbers[j-i] = numbers[j]
 			# TODO: decrement j
+            j--
 
 		numbers[j+1] = key
 
