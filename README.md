@@ -11,13 +11,15 @@ Go ahead and add a one line intro about you and add your favorite emoji which yo
 
 - Hi! My name is Anisha - you can find me anywhere with @ani6gup! My favorite emoji has to be 👌 since it works in any situation!
 
+- Hi, my name is Natalie, I was born in Colombia, and my favorite emoji is 🙃
+
 - Hi..my name is Nadia, and my favorite emoji is 👩‍💻 .
 
 - Hi!! My name is Mary and my favorite emoji is 🙄
 
 - hi! My name is Unique and Im confused. My favorit emoji is the question mark ❓
 
-
 - Hi, my name is Brianna and my favorite emoji is 👩‍💻!
 
 - Hi, my name is Rebecca and my favorite emoji is 💯
+
