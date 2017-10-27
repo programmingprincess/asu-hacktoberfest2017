@@ -9,7 +9,7 @@ def insertion(numbers):
 			# move ahead of their current position
             if numbers[j] > key:
                 numbers[j-i] = numbers[j]
-			# TODO: decrement j
+			
             j--
 
 		numbers[j+1] = key
