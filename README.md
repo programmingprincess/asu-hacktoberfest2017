@@ -20,4 +20,4 @@ Go ahead and add a one line intro about you and add your favorite emoji which yo
 
 - Hi, my name is Brianna and my favorite emoji is 👩‍💻!
 
-
+-Hi, Pranjul here! My favorite emoji is 😎
