@@ -5,5 +5,8 @@ def bubble(numbers):
 		for j in range(0, n-i-1):
 			if numbers[j] > numbers[j+1]:
 				# TODO: swap numbers if element is greater
+				temp = numbers[j]
+				numbers[j] = numbers[j + 1]
+				numbers[j + 1] = temp
 
 	return numbers;
