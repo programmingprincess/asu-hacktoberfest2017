@@ -29,5 +29,6 @@ Go ahead and add a one line intro about you and add your favorite emoji (you can
 
 - Hi, my name is Brianna and my favorite emoji is 👩‍💻!
 
-- Hi, my name is Rebecca and my favorite emoji is 💯
+- Hi, Pranjul here! My favorite emoji is 😎
 
+- Hi, my name is Rebecca and my favorite emoji is 💯
