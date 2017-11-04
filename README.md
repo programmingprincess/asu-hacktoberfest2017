@@ -31,4 +31,6 @@ Go ahead and add a one line intro about you and add your favorite emoji (you can
 
 - Hi, Pranjul here! My favorite emoji is 😎
 
+- Hi, my name is Kartik, I'm from Canada, and my favorite emoji is 😂 because you'll always find me laughing out loud!
+
 - Hi, my name is Rebecca and my favorite emoji is 💯
