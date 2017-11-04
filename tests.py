@@ -37,3 +37,12 @@ try:
         print "quicksort incorrect."
 except:
     print "quicksort function errored or is incomplete."
+
+try:
+    from heap import heap
+    if(heap(list(nums)) == sortedNums):
+        print "Heap Sort success!"
+    else:
+        print "Heap Sort incorrect."
+except:
+    print "Heapsort function errored or is incomplete."
