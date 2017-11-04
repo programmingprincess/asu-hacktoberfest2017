@@ -35,6 +35,9 @@ Go ahead and add a one line intro about you and add your favorite emoji (you can
 
 - Hi, my name is Rebecca and my favorite emoji is 💯
 
+- Hi, my name is Brandon and my  favorite emoji is 🍔
+
 ## Conclusion 
 Thank you for the overwhelming amount of contributions! I hope that everybody made their 4 pull requests for Hacktoberfest, and that your journey to open source doesn't end here. I am *slowly* getting through the pull requests. Check back if you don't see your changes in this repo! Best of luck :) 
+
 

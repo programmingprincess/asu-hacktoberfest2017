@@ -46,3 +46,12 @@ try:
         print "Heap Sort incorrect."
 except:
     print "Heapsort function errored or is incomplete."
+
+try:
+    from bucket import bucket
+    if(bucket(list(nums)) == sortedNums):
+        print "Bucket Sort success"
+    else:
+        print "Bucket Sort incorrect"
+except:
+    print "Bucketsort function errored or is incomplete"
