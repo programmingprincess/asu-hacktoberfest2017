@@ -1,5 +1,7 @@
-﻿# asu-hacktoberfest2017
+﻿# asu-hacktoberfest-2018
 Hacktoberfest: Introduction to Open Source Workshop for ASU!
+
+This workshop was initially created for Hacktoberfest 2017 at Arizona State University. 
 
 In the "sorting" folder, you'll find files for specific sorting algorithms. Some of them have TODO comments, which indicate that they need to be completed. 
 
